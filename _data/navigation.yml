@@ -1,20 +1,7 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Documentation"
     url: /_pages/documentation/
-  - title: "Resources"
-    first-level:
-      - text: misha
-        url: ood-misha.ycrc.yale.edu
-      - text: neo
-        url: neo.html
-    url: /_pages/resources/
-  - title: "Research"
-    url: /_pages/research/
-  - title: "People"
-    url: /_pages/people/
-  - title: "News"
-    url: /_pages/news/
+  - title: "Technical Reports"
+    url: /_pages/reports/
   - title: "Events"
     url: /_pages/events/
