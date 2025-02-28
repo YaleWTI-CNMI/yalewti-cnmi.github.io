@@ -1,7 +1,5 @@
 main:
   - title: "Documentation"
     url: /_pages/documentation/
-  - title: "Technical Reports"
-    url: /_pages/reports/
   - title: "Events"
     url: /_pages/events/
