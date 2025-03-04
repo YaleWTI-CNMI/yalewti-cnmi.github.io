@@ -1,5 +1,31 @@
 main:
   - title: "Documentation"
-    url: /_pages/documentation/
+    url: /docs/intro/
   - title: "Events"
-    url: /_pages/events/
+    url: /events/Events/
+
+docs:
+  - title: "Introduction"
+    children: 
+      - title: "intro1"
+      - url: /docs/intro1/
+      - title: "intro2"
+      - url: /docs/intro2/
+  - title: "Maker Space"
+    children:
+      - title: "Maker Space"
+      - url: /docs/maker1/
+      - title: "maker space 2"
+      - url: /docs/maker2/
+  - title: "Visualization Core"
+    children:
+      - title: "viz1"
+      - url: /docs/viz1/
+      - title: "viz2"
+      - url: /docs/viz2/
+  - title: "Experimental Cluster"
+    children: 
+      - title: "cluster1"
+      - url: /docs/cluster1/
+      - title: "cluster2"
+      - url: /docs/cluster2/
