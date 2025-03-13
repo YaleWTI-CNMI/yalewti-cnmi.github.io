@@ -8,7 +8,7 @@ tags:
   - misha
 ---
 
-The <b>Center for Neurocomputation and Machine Intelligence</b> is hosting a tutorial on <b>Introduction to HPC on Misha</b> on <b>March 31, 2025, from 1:00 – 3:00 PM</b>.
+The <b>Center for Neurocomputation and Machine Intelligence</b> at the Wu Tsai Institute is hosting a tutorial on <b>Introduction to HPC on Misha</b> on <b>March 31, 2025, from 1:00 – 3:00 PM</b>.
 
 This session will provide essential knowledge for working with Misha, including:
 
