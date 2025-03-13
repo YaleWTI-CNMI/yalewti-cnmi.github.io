@@ -11,10 +11,14 @@ docs:
     children:
       - title: "Introduction"
         url: /docs/misha-intro/
-      - title: "MIG"
+      - title: "MIG and gpu_devel"
         url: /docs/misha-mig/
       - title: "QOS-based GPU Allocation"
         url: /docs/misha-qos/
+      - title: "Checkpointing and Restarting"
+        url: /docs/misha-checkpoint/
+      - title: "GPU Performance Monitoring"
+        url: /docs/misha-monitor/
       - title: "OOD VSCode Proxy"
         url: /docs/misha-vscode-proxy/
   - title: "Maker Space"
@@ -22,8 +26,8 @@ docs:
       - title: "Introduction"
         url: /docs/ms-intro/
       - title: "Rules and Guidelines"
-        url: /docs/ms-rules-guidelines/
-      - title: "3D Printer"
+        url: /docs/ms-rule-guideline/
+      - title: "3D Printers"
         url: /docs/ms-3d-printer/
   - title: "Visualization Core"
     children:
@@ -32,8 +36,10 @@ docs:
       - title: "Software"
         url: /docs/vc-software/
       - title: "Projects"
-        url: /docs/vc-projects/
+        url: /docs/vc-project/
   - title: "Experimental Cluster"
     children:
       - title: "Introduction"
         url: /docs/ec-intro/
+      - title: "Projects"
+        url: /docs/ec-project/

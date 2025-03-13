@@ -4,6 +4,6 @@
 
 layout: home
 header:
-  image: assets/images/cnmi.png 
+  image: assets/images/cnmi4.png 
 ---
 
